@@ -25,7 +25,7 @@ class _stratscreenState extends State<stratscreen> {
         child: Column(
           children: [
             SizedBox(
-              height: height * 0.85,
+              height: height * 0.82,
             ),
             InkWell(
               onTap: () {
